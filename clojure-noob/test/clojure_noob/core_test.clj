@@ -1,6 +1,6 @@
-(ns todo-clj.core-test
+(ns clojure-noob.core-test
   (:require [clojure.test :refer :all]
-            [todo-clj.core :refer :all]))
+            [clojure-noob.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
